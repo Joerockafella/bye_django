@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-jq*+2psc+!z-f1ly^zkyriu$ot0f29gavg8&+-j430jg%caxx)
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["137.184.9.143", "joe-dev.xyz", "www.joe-dev.xyz", "byedjango.joe-dev.xyz"]
+ALLOWED_HOSTS = ["137.184.1.201", "joe-dev.xyz", "www.joe-dev.xyz", "byedjango.joe-dev.xyz"]
 
 
 # Application definition
